@@ -7,7 +7,7 @@ export const storeData = [
     {
         name: "Ollie",
         price: 48.35,
-        image: "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-transparent-black-grey-full-rim-rectangle-lenskart-air-air-classic-la-e14572-c3-eyeglasses_g_4417_6_14_22.jpg",
+        image: "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13788-c1-eyeglasses_vincent-chase-vc-e13788-c1-eyeglasses_g_3342.jpg",
     },
     {
         name: "Percy",
@@ -17,7 +17,7 @@ export const storeData = [
     {
         name: "Mercy",
         price: 158.35,
-        image: "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-transparent-black-grey-full-rim-rectangle-lenskart-air-air-classic-la-e14572-c3-eyeglasses_g_4417_6_14_22.jpg",
+        image: "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13788-c1-eyeglasses_vincent-chase-vc-e13788-c1-eyeglasses_g_3342.jpg",
     },
     {
         name: "Clary",
@@ -27,6 +27,6 @@ export const storeData = [
     {
         name: "clinton",
         price: 36.21,
-        image: "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-transparent-black-grey-full-rim-rectangle-lenskart-air-air-classic-la-e14572-c3-eyeglasses_g_4417_6_14_22.jpg",
+        image: "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13788-c1-eyeglasses_vincent-chase-vc-e13788-c1-eyeglasses_g_3342.jpg",
     },
 ]
