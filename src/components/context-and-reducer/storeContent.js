@@ -24,12 +24,13 @@ export const StoreProvider = ({children}) =>{
         (currentProduct)=> currentProduct.name !== product.name )
           dispatch({
               type: "remove",
-              payload: updatedBasket
+              payload: updatedBasket,
           });
              // Call updatePrice to recalculate the total
     updatePrice(updatedBasket);
       }
       const updatePrice = (products) => {
+        
         let total = 0;
         products.forEach(product =>{
             total += product.price
